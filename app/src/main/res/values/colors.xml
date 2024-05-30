@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Orange1">#FF6A3B</color>
+    <color name="Orange2">#FD845E</color>
+    <color name="Black1">#1D1D1C</color>
+    <color name="Black2">#252525</color>
+    <color name="White1">#979595</color>
+    <color name="White2">#FFFFFF</color>
+    <color name="high_confidence_color">#008000</color>
+    <color name="medium_confidence_color">#FFFF00</color>
+    <color name="low_confidence_color">#FF0000</color>
+</resources>
